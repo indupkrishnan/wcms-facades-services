@@ -1,0 +1,4 @@
+testCustomer@test.com,firstName,lastName,dr
+testCustomer1@test.com,firstName,,
+testCustomer2@test.com,,,dr
+testCustomer3@test.com,,,
